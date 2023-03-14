@@ -16,7 +16,7 @@ Cinefilo, futbolero, musiquero y videojueguero.
 
 Foto de mi persona:
 
-![d](https://www.lavoz.com.ar/resizer/YvO8Q1P2V2WXyWxIABNPUzl039s=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/DYYSZ2IZCRCHHLH6RDSEXCS4EI.jpg)
+![d]C:\Users\infolab\Desktop
 
 Argentina campeon!!!
 
