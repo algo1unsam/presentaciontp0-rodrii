@@ -16,7 +16,7 @@ Cinefilo, futbolero, musiquero y videojueguero.
 
 Foto de mi persona:
 
-![d]C:\Users\infolab\Desktop
+!C:\Users\infolab\Desktop
 
 Argentina campeon!!!
 
