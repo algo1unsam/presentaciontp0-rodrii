@@ -10,15 +10,15 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
-
-Descripción
+## Estudiante: Rodrigo
+Descripción: 28 años, estudiante de programacion, trabajando de programador desde hace 2 dias, con ganas de aprender.
+Cinefilo, futbolero, musiquero y videojueguero.
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://www.lavoz.com.ar/resizer/YvO8Q1P2V2WXyWxIABNPUzl039s=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/DYYSZ2IZCRCHHLH6RDSEXCS4EI.jpg)
 
-Diente de Leon
+Argentina campeon!!!
 
 ------
 
