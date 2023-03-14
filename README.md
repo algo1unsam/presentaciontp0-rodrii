@@ -10,7 +10,7 @@
 Ya saben usar git!
 
 
-## Estudiante: Rodrigo
+## Rodrigo
 Descripción: 28 años, estudiante de programacion, trabajando de programador desde hace 2 dias, con ganas de aprender.
 Cinefilo, futbolero, musiquero y videojueguero.
 
