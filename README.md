@@ -17,7 +17,7 @@ Cinefilo, futbolero, musiquero y videojueguero.
 Foto de mi persona:
 
 
-![Lionel Messi](C:/Users/infolab/Desktop/messi.jpg)
+![Lionel Messi](messi.jpg)
 
 
 Argentina campeon!!!
